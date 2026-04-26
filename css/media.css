@@ -1,0 +1,295 @@
+@media screen and (max-width: 992px) {
+  .navbar-toggler:focus {
+    box-shadow: none;
+    margin-left: 100px;
+  }
+
+  .navbar-toggler i {
+    color: #314158;
+  }
+  .pt {
+    padding-top: 140px;
+  }
+  .home {
+    padding-bottom: 92px;
+  }
+  .navbar-toggler:hover i {
+    color: #7f22fe;
+  }
+  .navbar-nav .nav-link.active {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #314158;
+    border: 0;
+  }
+
+  .hh {
+    height: 570px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 15px 0px 15px 12px;
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .nav-link::after {
+    display: none;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link:hover {
+    background-color: #f4f2ff;
+  }
+  .navbar-nav .nav-link.active {
+    color: #7c3aed;
+    border-bottom: 0;
+  }
+
+  ul {
+    margin-top: 10px;
+    border-top: 1px solid #e2e8f0;
+    padding-top: 10px;
+  }
+
+  .drop {
+    margin-right: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #314158;
+    white-space: nowrap;
+    transition: all 0.3s;
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 15px 0px 15px 12px;
+    background-color: white;
+    border-radius: 10px;
+  }
+  .drop:focus {
+    color: #314158;
+    font-weight: 500;
+    border-bottom: 0;
+  }
+  .drop::after {
+    display: none;
+  }
+
+  .drop:hover {
+    color: #7c3aed;
+    background-color: #f4f2ff;
+  }
+
+  .nn {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .head-h1 {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 60px;
+  }
+  .cc {
+    width: 90%;
+  }
+
+  .head-p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 33px;
+    width: 96%;
+  }
+
+  .wid {
+    width: 96%;
+  }
+
+  .prem-span {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    margin-bottom: 24px;
+  }
+
+  .prem-h2 {
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 36px;
+    margin-bottom: 18px;
+  }
+  .tab-content {
+    width: 95%;
+  }
+
+  .zzz {
+    width: 95%;
+  }
+
+  .client-span {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    margin-bottom: 24px;
+  }
+
+  .mm {
+    width: 95%;
+  }
+
+  .faq-h2 {
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+
+  .w-faq {
+    width: 95%;
+  }
+
+  .empty-conc-in {
+    display: none;
+  }
+  .empty-conc {
+    display: none;
+  }
+
+  .qq {
+    width: 99%;
+    margin: auto;
+  }
+
+  .empty-conc-in-2 {
+    display: none;
+  }
+  .empty-conc-2 {
+    display: none;
+  }
+
+  .sss {
+    width: 95%;
+    margin: auto;
+    padding: 32px;
+  }
+  .qm {
+    width: 88%;
+    margin: auto;
+  }
+
+  .mb-sm {
+    margin-bottom: 40px;
+  }
+
+  .d-w {
+    width: 48%;
+    background-color: white;
+    transition: all 0.2s;
+  }
+  .d-w:hover {
+    background-color: #f4f2ff;
+  }
+
+  .d-f {
+    display: flex;
+    justify-content: space-between;
+  }
+  .dropdown-menu[data-bs-popper] {
+    width: 100%;
+    left: 0;
+    right: 0;
+    overflow-y: auto;
+    height: 250px;
+    padding: 15px;
+  }
+  .bg {
+    background-color: #f8fafa;
+    border-radius: 10px;
+  }
+
+  .drop-1p {
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: 500;
+  }
+
+  .drop-2p {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+  .img-width {
+    width: 40px;
+    height: 40px;
+  }
+  .drop-h3 {
+    margin-top: 12px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-left: 8px;
+  }
+  .gar-p {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    width: 50%;
+  }
+  .w-20 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .new {
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 20px;
+  }
+
+  .new-num {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+  .aa {
+    width: 31.5%;
+    height: 25%;
+  }
+
+  .w-21 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .w-22 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .drop-card-p {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 20px;
+  }
+
+  .drop-card-p2 {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-bottom: 0;
+  }
+
+  .kk {
+    width: 48%;
+  }
+
+  .empty-2 {
+    display: none;
+  }
+  .empty-3 {
+    display: none;
+  }
+  .empty {
+    display: none;
+  }
+}
