@@ -30,7 +30,7 @@ There is no package manifest, dependency lockfile, build tool, custom JavaScript
 Because this is a static site, serve the repository root with any local HTTP server. For example, with Python 3:
 
 ```bash
-git clone --depth 1 https://github.com/zeyadhatem00/Elite-homes.git
+git clone --depth 1 https://github.com/zeyadhatem00/elite-homes.git
 cd Elite-homes
 python3 -m http.server 8000
 ```
